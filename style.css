@@ -28,7 +28,10 @@ canvas {
     font-size: 35px;
   }
 }
-
+.image {
+  border-radius: 50%;
+  object-fit: cover;
+}
 #my-heart:before {
   display: block;
   top: 0;
